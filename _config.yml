@@ -25,9 +25,9 @@ author:
   avatar           : "avatar1.png"
   name             : "Leslie"
   pronouns         : # example: "she/her"  
-  bio              : "Master student, Soochow University"
+  bio              : "Master Student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Soochow University"
   uri              : # URL
   email            : "none@example.org" 
 
